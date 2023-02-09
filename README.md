@@ -2,8 +2,6 @@
 <h3 align="center">Un apasionado desarrollador de Colombia</h3>
 
 
-- 🔭 Actualmente estoy trabajando en [Code Lines](https:/ /main.d27hgl0f7yids9.amplifyapp.com/)
-
 - 🌱 Actualmente estoy aprendiendo **AWS,Nexjs, Material Ui, Amplify**
 
 - 👯 Estoy buscando colaborar en **Proyectos React,Next,**
