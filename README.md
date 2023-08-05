@@ -1,3 +1,78 @@
+# Mi Hoja de Vida
+
+¡Hola! Soy [Tu Nombre], un apasionado desarrollador de software con experiencia sólida en JavaScript, React y Next.js. Actualmente, estoy cursando el noveno semestre de Ingeniería en Informática. Bienvenido a mi hoja de vida en línea, donde podrás conocer más sobre mis proyectos, estudios y certificados.
+
+## Sobre Mí
+
+Soy un entusiasta desarrollador de software con un enfoque en tecnologías frontend y experiencia en el desarrollo de aplicaciones web modernas. Mi pasión por la programación y la resolución de problemas me ha llevado a trabajar en una variedad de proyectos emocionantes.
+
+## Educación
+
+- **Ingeniería en Informática** - [Nombre de tu Universidad] - Cursando el noveno semestre
+
+## Experiencia
+
+### [Nombre de la Empresa] - [Cargo] - [Fecha de Inicio] - [Fecha de Finalización]
+
+Descripción de tus responsabilidades, logros y contribuciones en este puesto.
+
+## Proyectos Destacados
+
+### Sistema de Gestión Cartera (2016)
+
+- Desarrollo de una aplicación de escritorio para control de cartera.
+- Conexiones a la base de datos de la empresa y consultas SQL para identificar clientes con atrasos en cartera.
+- Creación de nuevas tablas en la base de datos para seguimiento de compromisos con los clientes.
+- Tech Stack: Java EE, PostgreSQL.
+
+### Sistema de Gestión Cartera V2 (2018)
+
+- Actualización de una aplicación de escritorio para control de cartera con nuevas librerías como JavaFX y CSS.
+- Implementación de patrones de diseño como MVC.
+- Generación de reportes de cartera utilizando iReport Designer.
+- Tech Stack: JavaFX, CSS, PostgreSQL, iReport Designer.
+
+### App Motoparque (2020-2022)
+
+- Desarrollo de una aplicación web con múltiples módulos (Pedidos, Compras, Inventarios, etc.) utilizando servicios de AWS.
+- Implementación de seguridad de autenticación con Amazon Cognito.
+- Uso de tecnologías Amplify JS para el backend y React con Material UI para el frontend.
+- Almacenamiento de archivos con Amazon S3 y uso de DataStore para la aplicación fuera de línea.
+- Tech Stack: React JS, Amplify JS, Cognito, DynamoDB, S3, App Sync, Material-UI, Next.js.
+
+## Certificaciones
+
+- Curso Básico de JavaScript, agosto 2022.
+- Curso de Asincronismo con JavaScript, agosto 2022.
+- Curso de Closures y Scope en JavaScript, agosto 2022.
+- Curso de Introducción a React.js, noviembre 2022.
+- Curso de Fundamentos de Angular, agosto 2022.
+
+## Habilidades
+
+- JavaScript
+- React
+- Next.js
+- Amplify JS
+- Amazon Web Services (AWS)
+- Java EE
+- PostgreSQL
+- HTML/CSS
+- MVC
+- Patrones de diseño
+- iReport Designer
+- Material UI
+
+## Contacto
+
+- [Correo Electrónico](mailto:tu@email.com)
+- [LinkedIn](https://www.linkedin.com/in/tu-perfil/)
+- [Sitio Web Personal](https://www.tu-sitio.com)
+
+¡Gracias por visitar mi hoja de vida en línea! Si estás interesado en colaborar en proyectos emocionantes o simplemente quieres conectarte, no dudes en contactarme. Estaré encantado de hablar contigo.
+
+
+
 <h1 align="center">Hola 👋 soy, Jhon Sanchez</h1>
 <h3 align="center">Un apasionado desarrollador de Colombia</h3>
 
