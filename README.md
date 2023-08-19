@@ -95,7 +95,7 @@ En este taller, se profundiza en los conceptos de la programación orientada a o
 - Next.js
 - Amplify JS
 - Amazon Web Services (AWS)
-- Java EE
+- Java
 - PostgreSQL
 - HTML/CSS
 - MVC
