@@ -6,6 +6,9 @@
 - [Proyectos Publicos](#proyectos-destacados-publicos)
   - [Formulario Registro](#formulario-node-react-aws)
   - [Todo React](#todo-react)
+  - [Taller1 JAVA Softlond](#todo-react)
+  - [Taller2 JAVA Softlond](#todo-react)
+  - [Taller3 JAVA Softlond](#todo-react)
 - [Proyectos Privados](#proyectos-destacados-privados)
   - [Sistema de Gestión Cartera v1](#sistema-de-gestión-cartera-2016)
   - [Sistema de Gestión Cartera v2](#sistema-de-gestión-cartera-2016)
@@ -37,6 +40,19 @@ Esta aplicación de lista de tareas está diseñada para demostrar los conceptos
 - Eliminar tareas de la lista.
 - Filtrar tareas por estado (completadas o pendientes).
 - Tech Stack: React, Amplify AWS.
+
+### Taller 1 JAVA
+
+Este taller abarca una variedad de ejercicios de programación básica para reforzar conceptos como entrada y salida de datos, operaciones matemáticas, control de flujo y manipulación de arreglos. 
+
+### Taller 2 JAVA
+
+En este taller, se exploran conceptos de programación orientada a objetos al implementar varias clases y sus métodos para resolver problemas específicos. 
+
+### Taller 3 JAVA
+
+En este taller, se profundiza en los conceptos de la programación orientada a objetos al resolver problemas más complejos y aplicar el polimorfismo y la jerarquía de clases.
+
 
 ## Proyectos Destacados PRIVADOS
 
